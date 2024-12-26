@@ -35,7 +35,7 @@ pip install torch diffusers matplotlib transformers accelerate
 
    ```bash
    git clone git@github.com:keerthan-381/Stable-Diffusion-Text-to-Image-Generator-with-GPU-Acceleration.git
-   cd image_generator
+   cd Stable-Diffusion-Text-to-Image-Generator-with-GPU-Acceleration
    ```
 
 2. **Set up authorization token:**
